@@ -23,7 +23,7 @@ Using the sample data provided, are women leaving at a significantly higher or l
 
 ### Data Cleaning
 Example Employee #1
-![A](assets/Capture2.jpg)
+![A](assets/Capture2.JPG)
 
 Example Employee #2
 ![B](assets/data.jpg)
@@ -78,7 +78,7 @@ males_df['Voluntary Rate'] = ((males_df['Resignation'] + males_df['Retirement'])
 ~~~
 
 ### Output:
-![C](assets/Capture3.jpg)
+![C](assets/Capture3.JPG)
 
 ### Confidence Level
 I was asked to compare two groups with a dichotomous dependent variable - males and females and a boolean value.
