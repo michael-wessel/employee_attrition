@@ -1,0 +1,60 @@
+/*Fonts ––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+/* Main Layout ––––––––––––––––––––––––––––––––––––––––––––––––––*/
+body {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+Hr {
+  background-color: #111111;
+  height: 1px;
+  border: none;
+}
+p { 
+  font-family: "Open Sans";
+  font-size: 14px;
+  text-align: left;
+}
+h1 { 
+  font-family: "Open Sans";
+  font-weight: bold;
+  letter-spacing: 1.1px;
+  font-size: 40px;
+  text-align: left;
+  padding-top: 10px;
+}
+h2 {
+  font-family: "Open Sans";
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 18px;
+}
+h3 {
+  font-family: "Open Sans";
+  font-weight: bold;
+  font-size: 20px;
+  font-weight: bold;
+}
+h4 {
+  font-family: "Open Sans";
+  font-weight: bold;
+  font-size: 16px;
+  font-weight: bold;
+}
+.div-for-table {
+  font-size: 12px;
+  width: 100%;
+}
+table {
+  width: 100%;
+  font-family: "Open Sans";
+  border-collapse: separate;
+  border-spacing: 0;
+}
+th {
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+  border-bottom: 1pt solid #dbdbdb44;
+}
