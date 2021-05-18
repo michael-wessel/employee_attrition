@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-os.chdir('C:/Users/micwessel/Projects/employee_attrition')
+os.chdir('C:/Users/micha/Projects/employee_attrition')
 pd.set_option('display.max_rows', None)
 
 # Read in the sample data and take a look.

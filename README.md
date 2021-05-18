@@ -23,10 +23,10 @@ Using the sample data provided, are women leaving at a significantly higher or l
 
 ### Data Cleaning
 Example Employee #1
-![A](assets/Capture2.JPG)
+![A](assets/employee1.jpg)
 
 Example Employee #2
-![B](assets/data.jpg)
+![B](assets/employee2.jpg)
 
 Date Values and NaT.\
 Similarities between CAVE and TO data.
@@ -78,7 +78,7 @@ males_df['Voluntary Rate'] = ((males_df['Resignation'] + males_df['Retirement'])
 ~~~
 
 ### Output:
-![C](assets/Capture3.JPG)
+![C](assets/output.jpg)
 
 ### Confidence Level
 I was asked to compare two groups with a dichotomous dependent variable - males and females and a boolean value.
